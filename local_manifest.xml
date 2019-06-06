@@ -46,7 +46,7 @@
   <project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="cm-13.0" />
 
   <project path="device/samsung/codina" name="CustomROMs/android_device_samsung_codina" revision="cm-13.0" />
-  <project path="kerne" name="ChronoMonochrome/Chrono_Kernel-1" revision="cm-13.0" />
+  <project path="kernel" name="ChronoMonochrome/Chrono_Kernel-1" revision="cm-13.0" />
   <project path="hardware/u8500" name="CustomROMs/android_hardware_u8500" revision="cm-13.0" />  
   <project path="vendor" name="CustomROMS/android_vendor" revision="cm-13.0" />
   <project path="vendor/samsung/u8500-common" name="CustomROMs/android_vendor_samsung_u8500-common" revision="cm-13.0" />
